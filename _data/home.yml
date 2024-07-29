@@ -9,15 +9,15 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
+  - title: Proyecto X
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: Creacion de una IA
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: Malware desde 0
     url: overview-post
     desc: You can control visibility from _config.yml file
 
